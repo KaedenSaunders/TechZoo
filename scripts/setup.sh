@@ -6,3 +6,4 @@ uv pip install stable_baselines3
 uv pip install gymnasium[classic-control]
 uv pip install wandb
 uv pip install tensorboard
+uv pip install sb3_contrib
